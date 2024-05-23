@@ -1,2 +1,2 @@
 # Vulnerabilities
-Some Vulnerability 
+Some Vulnerabilities
